@@ -5,5 +5,7 @@
   <<!--css-->>
 </head>
 <body>
-  
+  <div id="Buzzer">
+    <button id="BuzzerButton"></button>
+ </div>
 </body>
